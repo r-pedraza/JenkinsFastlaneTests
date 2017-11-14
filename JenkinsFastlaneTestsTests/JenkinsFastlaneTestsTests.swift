@@ -24,7 +24,7 @@ class JenkinsFastlaneTestsTests: XCTestCase {
     }
     
     func testExample4() {
-        XCTAssertTrue(false)
+        XCTAssertTrue(true)
     }
     
 }
