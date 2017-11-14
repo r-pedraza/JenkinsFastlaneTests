@@ -15,4 +15,16 @@ class JenkinsFastlaneTestsTests: XCTestCase {
         XCTAssertTrue(true)
     }
     
+    func testExample2() {
+        XCTAssertTrue(true)
+    }
+    
+    func testExample3() {
+        XCTAssertTrue(true)
+    }
+    
+    func testExample4() {
+        XCTAssertTrue(false)
+    }
+    
 }
