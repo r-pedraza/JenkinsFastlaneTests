@@ -1,0 +1,13 @@
+platform :ios do
+    lane :testify do
+        scan
+    end
+
+    error do |lane, exception|
+    end
+    
+    def getDeployInfo()
+        deploy_info = {}
+        deploy_info
+    end
+end
